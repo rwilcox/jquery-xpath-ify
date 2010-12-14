@@ -36,7 +36,7 @@ I checked with my coworkers, and found there was no real excitement over this to
 
 **So I went and built a bookmarklet**
 
-Install this bookmarklet. When you need a jQuery object from an XPath expression, click the bookmarklet. Now you have jquery-xpath loaded into your page (just like the [jQuery-ify Bookmarklet](http://www.learningjquery.com/2006/12/jquerify-bookmarklet)).
+[Visit the bookmarklet's page and install it](http://rwilcox.github.com/jquery-xpath-ify/). When you need a jQuery object from an XPath expression, click the bookmarklet. Now you have jquery-xpath loaded into your page (just like the [jQuery-ify Bookmarklet](http://www.learningjquery.com/2006/12/jquerify-bookmarklet)).
 
 Now you can:
 
